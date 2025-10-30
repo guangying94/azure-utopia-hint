@@ -22,16 +22,16 @@ General steps to follow:
 - Refer to [./setup/README.md](./setup/README.md) for detailed instructions on setting up the required Azure resources.
 
 ### Stage 1
-This stage is about creating an image using Generative AI. There are plenty of free tools available online that can help you generate images using AI models. Refer to [./stage1/README.md](./stage1/README.md) for more details.
+This stage is about creating an image using Generative AI. There are plenty of free tools available online that can help you generate images using AI models. Refer to [./stage-1/README.md](./stage-1/README.md) for more details.
 
 ### Stage 2
-This stage is about creating a RAG (Retrieval-Augmented Generation) application. RAG is getting popular and there are many tools out that provide out of the box solutions. Refer to [./stage2/README.md](./stage2/README.md) for more details.
+This stage is about creating a RAG (Retrieval-Augmented Generation) application. RAG is getting popular and there are many tools out that provide out of the box solutions. Refer to [./stage-2/README.md](./stage-2/README.md) for more details.
 
 ### Stage 3
-This stage is about creating a machine learning model, and expose the trained model as a tool for LLMs. This is an interesting approach where statistical machine learning meet Generative AI. Refer to [./stage3/README.md](./stage3/README.md) for more details.
+This stage is about creating a machine learning model, and expose the trained model as a tool for LLMs. This is an interesting approach where statistical machine learning meet Generative AI. Refer to [./stage-3/README.md](./stage-3/README.md) for more details.
 
 ### Stage 4
-This stage is about leveraging multi-modal capabilities of LLMs. Multi-modal models can process and generate content in multiple formats, such as text, images, and audio. Refer to [./stage4/README.md](./stage4/README.md) for more details.
+This stage is about leveraging multi-modal capabilities of LLMs. Multi-modal models can process and generate content in multiple formats, such as text, images, and audio. Refer to [./stage-4/README.md](./stage-4/README.md) for more details.
 
 ### Stage 5
-This stage is about leveraging LLM to connect to database and perform operations. Refer to [./stage5/README.md](./stage5/README.md) for more details.
+This stage is about leveraging LLM to connect to database and perform operations. Refer to [./stage-5/README.md](./stage-5/README.md) for more details.
